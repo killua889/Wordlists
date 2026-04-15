@@ -1,0 +1,103 @@
+Contact: root@127.0.0.1
+From: root@127.0.0.1
+X-Original-URL: http://127.0.0.1/
+X-Wap-Profile: http://127.0.0.1/wap.xml
+Profile: http://127.0.0.1/wap.xml
+X-Arbitrary: http://127.0.0.1/
+X-HTTP-DestinationURL: http://127.0.0.1/
+X-Forwarded: 127.0.0.1
+X-Forwarded-Proto: http://127.0.0.1/
+X-Forwarded-Host: 127.0.0.1
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Server: 127.0.0.1
+X-Host: 127.0.0.1
+X-HTTP-Host-Override: 127.0.0.1
+Cluster-Client-IP: 127.0.0.1
+True-Client-IP: 127.0.0.1
+Client-IP: 127.0.0.1
+X-Client-IP: 127.0.0.1
+X-Real-IP: 127.0.0.1
+X-Remote-IP: 127.0.0.1
+X-Originating-IP: 127.0.0.1
+X-ProxyUser-Ip: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+CF-Connecting-IP: 127.0.0.1
+Forwarded: for=127.0.0.1;by=127.0.0.1;host=127.0.0.1
+
+Contact: root@localhost
+From: root@localhost
+X-Original-URL: http://localhost/
+X-Wap-Profile: http://localhost/wap.xml
+Profile: http://localhost/wap.xml
+X-Arbitrary: http://localhost/
+X-HTTP-DestinationURL: http://localhost/
+X-Forwarded: localhost
+X-Forwarded-Proto: http://localhost/
+X-Forwarded-Host: localhost
+X-Forwarded-For: localhost
+X-Forwarded-Server: localhost
+X-Host: localhost
+X-HTTP-Host-Override: localhost
+Cluster-Client-IP: localhost
+True-Client-IP: localhost
+Client-IP: localhost
+X-Client-IP: localhost
+X-Real-IP: localhost
+X-Remote-IP: localhost
+X-Originating-IP: localhost
+X-ProxyUser-Ip: localhost
+X-Remote-Addr: localhost
+CF-Connecting-IP: localhost
+Forwarded: for=localhost;by=localhost;host=localhost
+
+Contact: root@[::1]
+From: root@[::1]
+X-Original-URL: http://[::1]/
+X-Wap-Profile: http://[::1]/wap.xml
+Profile: http://[::1]/wap.xml
+X-Arbitrary: http://[::1]/
+X-HTTP-DestinationURL: http://[::1]/
+X-Forwarded: [::1]
+X-Forwarded-Proto: http://[::1]/
+X-Forwarded-Host: [::1]
+X-Forwarded-For: [::1]
+X-Forwarded-Server: [::1]
+X-Host: [::1]
+X-HTTP-Host-Override: [::1]
+Cluster-Client-IP: [::1]
+True-Client-IP: [::1]
+Client-IP: [::1]
+X-Client-IP: [::1]
+X-Real-IP: [::1]
+X-Remote-IP: [::1]
+X-Originating-IP: [::1]
+X-ProxyUser-Ip: [::1]
+X-Remote-Addr: [::1]
+CF-Connecting-IP: [::1]
+Forwarded: for="[::1]";by="[::1]";host="[::1]"
+
+X-Forwarded-For: 2130706433
+X-Host: 2130706433
+X-Original-URL: http://2130706433/
+
+X-Forwarded-For: 0177.0.0.1
+
+X-Forwarded-For: 0x7f.0x0.0x0.0x1
+
+X-Forwarded-For: 127.1
+X-Forwarded-For: 127.0.1
+X-Forwarded-For: 0x7f000001
+
+X-Forwarded-For: 10.0.0.1
+X-Forwarded-For: 172.16.0.1
+X-Forwarded-For: 192.168.0.1
+X-Forwarded-For: 192.168.1.1
+
+
+X-Forwarded-For: 169.254.169.254
+X-Original-URL: http://169.254.169.254/latest/meta-data/
+
+
+X-Forwarded-For: 169.254.169.254
+X-Original-URL: http://169.254.169.254/computeMetadata/v1/
+Metadata-Flavor: Google
