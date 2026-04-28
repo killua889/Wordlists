@@ -1,3 +1,5 @@
+.toml
+vercel.json
 .user.ini
 assets/configs/app.config.json
 appsettings.json
