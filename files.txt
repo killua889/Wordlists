@@ -1,4 +1,16 @@
+actuator
+actuator/health 
+ v3/api-docs
+ h2-console
+ error 
 .toml
+ai/chat
+ai/chatbot
+ai/chatbot-doc
+ai/conversation
+ai/query
+ai/ask
+ai/rag
 vercel.json
 .user.ini
 assets/configs/app.config.json
